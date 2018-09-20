@@ -1,3 +1,2 @@
-﻿  지역변수의 반환.cpp
-c:\users\김태현\source\repos\씨++전용 project\씨++전용 project\지역변수의 반환.cpp(6): warning C4172: 지역 변수 또는 임시: var의 주소를 반환하고 있습니다.
-  씨++전용 project.vcxproj -> C:\Users\김태현\source\repos\씨++전용 project\Debug\씨++전용 project.exe
+﻿  생성자가 없는 예제 4.11.cpp
+  씨++전용 project.vcxproj -> C:\Users\김태현\source\repos\씨++전용project\Debug\씨++전용 project.exe
