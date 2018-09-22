@@ -42,5 +42,8 @@
     <ClCompile Include="const 키워드와 define 키워드 .c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연습.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

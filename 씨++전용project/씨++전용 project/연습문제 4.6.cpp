@@ -10,9 +10,7 @@ public:
 	cpoint(int a, int b) { x = a; y = b; }
 	cpoint(int a, int b, int c) { x = a + b + c; y = a * b*c; }
 	void print() { cout << "(" << x << " " << y << ")" << endl; }
-
 };
-
 int main(void)
 {
 	cpoint p1;
