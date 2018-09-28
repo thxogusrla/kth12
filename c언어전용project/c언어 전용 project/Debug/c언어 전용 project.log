@@ -1,4 +1,2 @@
-﻿  연습.C
-c:\users\김태현\source\repos\c언어전용project\c언어 전용 project\연습.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+﻿  123.cpp
   c언어 전용 project.vcxproj -> C:\Users\김태현\source\repos\c언어전용project\Debug\c언어 전용 project.exe

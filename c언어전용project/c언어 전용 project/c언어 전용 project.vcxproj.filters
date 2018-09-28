@@ -42,7 +42,16 @@
     <ClCompile Include="const 키워드와 define 키워드 .c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연습.C">
+    <ClCompile Include="10명의 학점을 포인터를 이용해서 저장하라.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정수 배열 A B복사 .c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="씨주경.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="123.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
