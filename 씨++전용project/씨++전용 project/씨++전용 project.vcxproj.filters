@@ -15,79 +15,49 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="걍연습용 .cpp">
+    <ClCompile Include="예제2.11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="지역변수의 반환.cpp">
+    <ClCompile Include="예제 2.12-1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="클래스를 이용한 c++.cpp">
+    <ClCompile Include="연습문제 2.8-1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tv를 클래스로 표현하기 .cpp">
+    <ClCompile Include="for문.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 4.5 구조체 .cpp">
+    <ClCompile Include="static 멤버 변수 이용.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 4.7 .cpp">
+    <ClCompile Include="함수 외부정의.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소멸 예제 4.8 .cpp">
+    <ClCompile Include="const 이용한.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="가우스 함수 .cpp">
+    <ClCompile Include="예제6.1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연습문제 4.6.cpp">
+    <ClCompile Include="예제6.5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 4.8.cpp">
+    <ClCompile Include="예제 6.6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 4.9.cpp">
+    <ClCompile Include="복사 생성자와 디폴트 생성자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연습문제 4.5.cpp">
+    <ClCompile Include="예제6.7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="생성자가 없는 예제 4.11.cpp">
+    <ClCompile Include="연습문제6.6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 5.1 .cpp">
+    <ClCompile Include="전지1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제5.2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 5.3 .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 5.4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제 5.1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제 5.3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 5.14 .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 5.15.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제5.19.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제5.20.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제5. 23. .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제5.22.cpp">
+    <ClCompile Include="전지2 .cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -30,7 +30,6 @@ public:
 		return sum;
 	}
 };
-
 int main(void)
 {
 	cpoint ary[5] = { cpoint(1,2), cpoint(3,4) , cpoint(5,6) }; //1,2 ,3 4
