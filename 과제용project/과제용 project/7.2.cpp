@@ -7,7 +7,7 @@ private:
 	int second;
 public:
 	ctime(int a, int b, int c) : hour(a), minute(b), second(c) {  
-		if (minute > 60) 
+		if (minute > 60) //1 85 64
 		{
 			hour++; 
 			minute = minute - 60; 

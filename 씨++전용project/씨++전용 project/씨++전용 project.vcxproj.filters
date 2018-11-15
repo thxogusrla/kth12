@@ -15,91 +15,55 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="for문.cpp">
+    <ClCompile Include="예제 8.8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="static 멤버 변수 이용.cpp">
+    <ClCompile Include="예제 8.11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="함수 외부정의.cpp">
+    <ClCompile Include="p263.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="const 이용한.cpp">
+    <ClCompile Include="예제 8.13.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제6.1.cpp">
+    <ClCompile Include="예제 5.22.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제6.5.cpp">
+    <ClCompile Include="예제 8.13-1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제 6.6.cpp">
+    <ClCompile Include="연습문제 9.1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="복사 생성자와 디폴트 생성자.cpp">
+    <ClCompile Include="연습문제 9.2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="예제6.7.cpp">
+    <ClCompile Include="예제 9.3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연습문제6.6.cpp">
+    <ClCompile Include="연습문제 9.3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="전지1.cpp">
+    <ClCompile Include="예제 9.4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="전지2 .cpp">
+    <ClCompile Include="예제 9.7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="시험 const연습 .cpp">
+    <ClCompile Include="연습문제 9.5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="구조체 연습.cpp">
+    <ClCompile Include="예제 9.10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="시험 3번 예제.cpp">
+    <ClCompile Include="전지11.12 - 1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="const 포인터 .cpp">
+    <ClCompile Include="전지 11.12 -2 .cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="시험 4번 .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7장 멤버함수 덧셈 연산자.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="덧셈 전역함수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연산 오버로딩.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제7.3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 7.6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제 7.6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 7.9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제 7.10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제 7.7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예제7.11 cout, cin .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전지 실습과제1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전지 실습과제2.cpp">
+    <ClCompile Include="뭐징예제 9.11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

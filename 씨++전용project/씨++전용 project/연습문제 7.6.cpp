@@ -40,7 +40,7 @@ carray &operator-(carray &ar1) //ar1 클래스 변수가 생성되었고 참조역할을 하지. �
 }
 int main()
 {
-	carray ary1;
+		carray ary1;
 	ary1.print();
 
 	carray ary2 = +ary1;
