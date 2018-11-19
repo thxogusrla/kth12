@@ -129,6 +129,18 @@
     <ClCompile Include="연습문제 9.7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연습문제 10.2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제 10.3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전공지도 1 11.19 .cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제 10.5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shape.h">
